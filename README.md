@@ -1,4 +1,4 @@
- Hello i'm Eduardo Pedrosa 👋
+ Hi there 👋 my name is Eduardo Pedrosa but i'm better known as DuDu 🚀 ! 
 
 - 🔭 I’m a student of promming in the front-end developer.
 - ⏲️ I study front-end development for almost a year...
