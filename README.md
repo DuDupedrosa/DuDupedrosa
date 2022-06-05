@@ -1,6 +1,6 @@
  Hi there 👋 my name is Eduardo Pedrosa but i'm better known as DuDu 🚀 ! 
 
-- 🔭 I’m a student of promming in the front-end developer.
+- 🔭 I’m a student of programming in the front-end developer.
 - ⏲️ I study front-end development for almost a year...
 - 📙 My most recent training was the course of React js
 - 📂 In this link you can see my projects https://dudupedrosa.github.io/portfolio/
@@ -19,6 +19,7 @@
   <img align="center" alt="DuDu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DuDu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DuDu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="DuDu-vue"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />      
 </div>
 
 ##
