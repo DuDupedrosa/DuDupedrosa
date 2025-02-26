@@ -30,6 +30,8 @@
   <img align="center" alt="DuDu-ESLint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <!-- Figma -->
   <img align="center" alt="DuDu-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img align="center" alt="DuDu-Zod" height="30" width="40" src="https://avatars.githubusercontent.com/u/67643959?s=200&v=4">
+<img align="center" alt="DuDu-ReactHookForm" height="30" width="40" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4">
 
   
   <!-- JavaScript / TypeScript -->
