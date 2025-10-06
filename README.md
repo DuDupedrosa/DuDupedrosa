@@ -4,7 +4,7 @@
 - 🎓 Graduated in Analysis and Systems Development.
 - 🏗️ I've been studying programming for three years, constantly improving my skills.
 - 🔥 Passionate about building clean, efficient, and scalable applications.
-- ⚡ My main stack includes React.js, Vue.js, Next.js, TypeScript, and Nest.js.
+- ⚡ My main stack includes React.js, Vue.js, Next.js, TypeScript, .NET (C#) and Nest.js.
 - 🗄️ Experience with databases like MongoDB, MySQL, and PostgreSQL.
 - 📂 Check out my projects: [My Portfolio](https://new-portfolio-eight-liard.vercel.app/)
 - 📞 Open to new opportunities and collaborations!
