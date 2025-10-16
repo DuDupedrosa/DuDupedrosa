@@ -2,7 +2,7 @@
 
 - 💻 I'm a Full-Stack Developer, with a strong focus on Front-end.
 - 🎓 Graduated in Analysis and Systems Development.
-- 🏗️ I've been studying programming for three years, constantly improving my skills.
+- 🏗️ I've been studying programming for four years, constantly improving my skills.
 - 🔥 Passionate about building clean, efficient, and scalable applications.
 - ⚡ My main stack includes React.js, Vue.js, Next.js, TypeScript, .NET (C#) and Nest.js.
 - 🗄️ Experience with databases like MongoDB, MySQL, and PostgreSQL.
